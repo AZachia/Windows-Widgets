@@ -50,7 +50,7 @@ if __name__ == "__main__":
 
 ## Widgets list
 - [clock](clock.py) (display the current time with seconds)
-- [datetime](datetime.py) (display the current date and time)
+- [datetime](date_time.py) (display the current date and time)
 - [volume](volume.py) (set & get the system volume in real time)
 - [luminosity](luminosity.py) (set & get the system luminosity in real time)
 - [websearch](websearch.py) (search on google the text in the entry)
