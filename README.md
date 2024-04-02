@@ -5,6 +5,14 @@ A collection of beautifull and modern windows widgets written in python with tki
 
 ![](assets/screenshot.png)
 
+## Requirements
+
+using [ttkbootstrap](https://github.com/israel-dryer/ttkbootstrap):
+    
+```bash
+pip install ttkbootstrap
+```
+
 ## Installation
 To install the widgets, you have to clone the repository and copy the `widgets` folder to your project directory.
 
