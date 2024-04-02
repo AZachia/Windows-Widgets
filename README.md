@@ -54,3 +54,4 @@ if __name__ == "__main__":
 - volume (set & get the system volume in real time)
 - luminosity (set & get the system luminosity in real time)
 - websearch (search on google the text in the entry)
+- [clock](clock.py)
