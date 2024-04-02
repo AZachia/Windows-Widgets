@@ -5,7 +5,7 @@
 
 ![](assets/screenshot.png)
 
-## Requirements
+## ⚙️ Requirements
 
 using [ttkbootstrap](https://github.com/israel-dryer/ttkbootstrap):
     
@@ -13,7 +13,9 @@ using [ttkbootstrap](https://github.com/israel-dryer/ttkbootstrap):
 pip install ttkbootstrap
 ```
 
-## Installation
+Works on Windows only and tested only on python 3.11 (but should work on higher versions, not tested on lower versions)
+
+## 🛠️ Installation
 To install the widgets, you have to clone the repository and copy the `widgets` folder to your project directory.
 
 You can download in in zip format and extract it to your project directory or run the following command in your project directory:
@@ -22,7 +24,7 @@ You can download in in zip format and extract it to your project directory or ru
 git clone https://github.com/AZachia/Windows-Widgets.git && cd Windows-Widgets
 ```
 
-## Usage
+## 🚀 Usage 
 To run one widget especially, you just have to run it as a script.
 
 ## Create your own widget
@@ -56,9 +58,13 @@ if __name__ == "__main__":
     HelloWidget().app.mainloop()
 ```
 
-## Widgets list
+## 📋 Widgets list
 - [clock](clock.py) (display the current time with seconds)
 - [datetime](date_time.py) (display the current date and time)
 - [volume](volume.py) (set & get the system volume in real time)
 - [luminosity](luminosity.py) (set & get the system luminosity in real time)
 - [websearch](websearch.py) (search on google the text in the entry)
+
+## 🤝 Contributing
+
+If you want to contribute to this project, you can fork the repository and create a pull request.
