@@ -1,7 +1,7 @@
 # Windows-Widgets
  <img src="https://skillicons.dev/icons?i=py,windows" />
 
-A collection of beautifull and modern windows widgets written in python with tkinter
+<p style="text-align:center">A collection of beautifull and modern windows widgets written in python with tkinter</p>
 
 ![](assets/screenshot.png)
 
